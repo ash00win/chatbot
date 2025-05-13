@@ -1,0 +1,6 @@
+streamlit
+cohere
+qdrant-client
+PyMuPDF
+pdfplumber
+python-dotenv
